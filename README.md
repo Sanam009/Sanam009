@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanam</h1>
+<h1 align="center" style="color: white; background-color: black; padding: 10px;">Hi 👋, I'm Sanam</h1>
 
 - 🔭 I’m currently working on HTML, CSS, React, Laravel, PHP, and Figma  
 - 🌱 I’m currently learning Backend  
