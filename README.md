@@ -5,6 +5,7 @@
 <div style="background-color: black; color: white; padding: 20px;">
   <ul>
     <li>🔭 I’m currently working on <strong>HTML, CSS, React, Laravel, PHP, and Figma</strong></li>
+    <li>I also know C ,C++ ,Java,Python</li>
     <li>🌱 I’m currently learning <strong>Backend</strong></li>
     <li>💬 Ask me anything about <strong>HTML, CSS, React, Laravel, PHP, and Figma</strong></li>
     <li>📫 How to reach me: <strong>sanamjawhar@gmail.com</strong></li>
