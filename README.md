@@ -25,7 +25,7 @@
     <a href="https://www.instagram.com/your-profile-link">
       <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
     </a>
-    <a href="https://facebook.com/your-profile-link">
+    <a href="https://www.facebook.com/arahiya.khan.3">
       <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
     </a>
     <a href="https://twitter.com/your-profile-link">
