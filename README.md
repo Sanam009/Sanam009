@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sanam</h1>
 <h1 align="center" style="color: white; background-color: black; padding: 10px;">Hi 👋, I'm Sanam</h1>
 
-- 🔭 I’m currently working on HTML, CSS, React, Laravel, PHP, and Figma  
-- 🌱 I’m currently learning Backend  
-- 💬 Ask me anything about HTML, CSS, React, Laravel, PHP, and Figma  
+- 🔭 I’m currently working on **HTML, CSS, React, Laravel, PHP, and Figma**  
+- 🌱 I’m currently learning **Backend**  
+- 💬 Ask me anything about **HTML, CSS, React, Laravel, PHP, and Figma**  
 - 📫 How to reach me: **sanamjawhar@gmail.com**  
 - ⚡ Fun fact: I'm coming to teen  
 
 ### Connect with me:
-<div id="badges">
+<div id="badges" align="center" style="background-color: black; padding: 10px;">
   <a href="https://github.com/Sanam009">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
@@ -27,11 +26,19 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,laravel,php,figma,github,git,postman&perline=5)](https://skillicons.dev)
+<div align="center" style="background-color: black; padding: 10px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,laravel,php,figma,github,git,postman&perline=5" alt="My Skills" />
+  </a>
+</div>
 
-![Sanam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanam009&show_icons=true&theme=dark)
+<div align="center" style="background-color: black; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanam009&show_icons=true&theme=dark" alt="Sanam's GitHub stats" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanam009&theme=dark)
+<div align="center" style="background-color: black; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanam009&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
